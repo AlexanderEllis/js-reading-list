@@ -8,6 +8,7 @@ This is a collection of JavaScript codebases to read.  They're separated into 3 
 |-------------------------------------------------------------------|--------------------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------|
 | [JSON in JavaScript](https://github.com/douglascrockford/JSON-js) | Douglas Crockford's implementation of JSON | ~800 | [![GitHub stars](https://img.shields.io/github/stars/douglascrockford/JSON-js.svg)](https://github.com/douglascrockford/JSON-js) |
 | [Redux](https://github.com/reduxjs/redux)                         | State management library                   | ~380 | [![GitHub stars](https://img.shields.io/github/stars/reduxjs/redux.svg)](https://github.com/reduxjs/redux)                       |
+| [Hyperapp](https://github.com/hyperapp/hyperapp)                         | 1 kB JavaScript framework for building web applications.                   | ~340 | [![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg)](https://github.com/hyperapp/hyperapp)                       |
 
 ### Medium length codebases (1000-10k lines of JS)
 
@@ -20,6 +21,9 @@ This is a collection of JavaScript codebases to read.  They're separated into 3 
 | [Moment.js](https://github.com/moment/moment/)                                                                               | Parse, validate, manipulate, and display dates in javascript.                                                | ~3500  | [![GitHub stars](https://img.shields.io/github/stars/moment/moment.svg)](https://github.com/moment/moment)                 |
 | [Immutable](https://github.com/facebook/immutable-js/)                                                                       | Immutable persistent data collections for Javascript which increase efficiency and simplicity.               | ~5000  | [![GitHub stars](https://img.shields.io/github/stars/facebook/immutable-js.svg)](https://github.com/facebook/immutable-js) |
 | [handlebars.js](https://github.com/wycats/handlebars.js/)                                                                    | Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. | ~2700  | [![GitHub stars](https://img.shields.io/github/stars/wycats/handlebars.js.svg)](https://github.com/wycats/handlebars.js)   |
+| [Ramda](https://github.com/ramda/ramda)                                                                    | 🐏 Practical functional Javascript  | ~4000  | [![GitHub stars](https://img.shields.io/github/stars/ramda/ramda.svg)](https://github.com/ramda/ramda)   |
+| [jQuery](https://github.com/jquery/jquery)                                                                    | jQuery JavaScript Library  | ~6200  | [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery.svg)](https://github.com/jquery/jquery)   |
+| [Zepto.js](https://github.com/madrobby/zepto)                                                                    | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API   | ~2100  | [![GitHub stars](https://img.shields.io/github/stars/madrobby/zepto.svg)](https://github.com/madrobby/zepto)   |
 
 ### Large codebases (>10k lines of JS)
 
