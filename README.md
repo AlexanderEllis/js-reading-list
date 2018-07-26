@@ -10,6 +10,7 @@ This is a collection of JavaScript codebases to read.  They're separated into 3 
 | [Redux](https://github.com/reduxjs/redux)                         | State management library                   | ~380 | [![GitHub stars](https://img.shields.io/github/stars/reduxjs/redux.svg)](https://github.com/reduxjs/redux)                       |
 | [Hyperapp](https://github.com/hyperapp/hyperapp)                         | 1 kB JavaScript framework for building web applications.                   | ~340 | [![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg)](https://github.com/hyperapp/hyperapp)                       |
 | [Preact](https://github.com/developit/preact)                         | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.                    | ~650 | [![GitHub stars](https://img.shields.io/github/stars/developit/preact.svg)](https://github.com/developit/preact)                       |
+| [left-pad](https://github.com/stevemao/left-pad)                         | ⬅️ String left pad                    | ~30 | [![GitHub stars](https://img.shields.io/github/stars/stevemao/left-pad.svg)](https://github.com/stevemao/left-pad)                       |
 
 ### Medium length codebases (1000-10k lines of JS)
 
