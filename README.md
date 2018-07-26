@@ -9,6 +9,7 @@ This is a collection of JavaScript codebases to read.  They're separated into 3 
 | [JSON in JavaScript](https://github.com/douglascrockford/JSON-js) | Douglas Crockford's implementation of JSON | ~800 | [![GitHub stars](https://img.shields.io/github/stars/douglascrockford/JSON-js.svg)](https://github.com/douglascrockford/JSON-js) |
 | [Redux](https://github.com/reduxjs/redux)                         | State management library                   | ~380 | [![GitHub stars](https://img.shields.io/github/stars/reduxjs/redux.svg)](https://github.com/reduxjs/redux)                       |
 | [Hyperapp](https://github.com/hyperapp/hyperapp)                         | 1 kB JavaScript framework for building web applications.                   | ~340 | [![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg)](https://github.com/hyperapp/hyperapp)                       |
+| [Preact](https://github.com/developit/preact)                         | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.                    | ~650 | [![GitHub stars](https://img.shields.io/github/stars/developit/preact.svg)](https://github.com/developit/preact)                       |
 
 ### Medium length codebases (1000-10k lines of JS)
 
