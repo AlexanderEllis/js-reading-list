@@ -26,6 +26,7 @@ This is a collection of JavaScript codebases to read.  They're separated into 3 
 | [Ramda](https://github.com/ramda/ramda)                                                                    | 🐏 Practical functional Javascript  | ~4000  | [![GitHub stars](https://img.shields.io/github/stars/ramda/ramda.svg)](https://github.com/ramda/ramda)   |
 | [jQuery](https://github.com/jquery/jquery)                                                                    | jQuery JavaScript Library  | ~6200  | [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery.svg)](https://github.com/jquery/jquery)   |
 | [Zepto.js](https://github.com/madrobby/zepto)                                                                    | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API   | ~2100  | [![GitHub stars](https://img.shields.io/github/stars/madrobby/zepto.svg)](https://github.com/madrobby/zepto)   |
+| [Matter.js](https://github.com/liabru/matter-js)                                                                    | a 2D rigid body physics engine for the web ▲● ■   | ~5000  | [![GitHub stars](https://img.shields.io/github/stars/liabru/matter-js.svg)](https://github.com/liabru/matter-js)   |
 
 ### Large codebases (>10k lines of JS)
 
